@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend Engineering
 - 🌱 I’m currently learning Handling distributed systems
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [LinkedIn](https://linked.com/in/umeshtoke)
+- 📫 How to reach me [LinkedIn](https://linkedin.com/in/umeshtoke)
 
 <!---
 decipherDev/decipherDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
